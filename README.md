@@ -5,5 +5,5 @@
 firstly you'll have to git clone this repository
 
 ```
-git clone
+git clone https://github.com/an-iq-too-high/mywiki
 ```
