@@ -44,6 +44,8 @@ git
 
 python
 
+wikipedia-api
+
 # HOW TO INSTALL PACKAGES
 
 *P.S: this can work on termux*
@@ -57,6 +59,12 @@ Then you say:
 ```
 pkg install python
 ```
+And THEN
+
+```
+pip install wikipedia-api
+```
+
 
 If it tells you something like
 
