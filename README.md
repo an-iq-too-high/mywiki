@@ -74,8 +74,6 @@ Continue with installation? [y/n]
 Then type "y"
 
 
-***Another note: wiki.py will look empty but it kinda keeps the entire thing working, if you encounter any issues, please do say in the "issues" place***
-
 # IF YOU DID IT AND WANT TO DO IT AGAIN
 
 You just say this:
@@ -94,6 +92,7 @@ And that's it
 
 If you ask the thing about anything, it will install a .txt file inside the folder for offline reading!
 After you install the repository, you can delete files other than wiki.js!
+wiki.py will look empty but it kinda keeps the entire thing working, if you encounter any issues, please do say in the "issues" place!
 
 # CREDITS
 
