@@ -36,7 +36,7 @@ EOF
 Then you run it!
 
 ```
-python mywiki.py
+python wiki.py
 ```
 # PACKAGES REQUIRED
 
