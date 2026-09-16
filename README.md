@@ -90,9 +90,10 @@ python wiki.py
 ```
 And that's it
 
-# NOTE
+# NOTES
 
 If you ask the thing about anything, it will install a .txt file inside the folder for offline reading!
+After you install the repository, you can delete files other than wiki.js!
 
 # CREDITS
 
