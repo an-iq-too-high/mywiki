@@ -4,6 +4,6 @@
 
 firstly you'll have to git clone this repository
 
-'''
+```
 git clone
-'''
+```
