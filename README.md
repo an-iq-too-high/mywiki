@@ -64,3 +64,6 @@ If it tells you something like
 Continue with installation? [y/n]
 ```
 Then type "y"
+
+
+***Another note: wiki.py will look empty but it kinda keeps the entire thing working, if you encounter any issues, please do say in the "issues" place***
