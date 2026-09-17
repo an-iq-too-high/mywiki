@@ -5,7 +5,6 @@
 ![mywiki](https://img.shields.io/badge/github-black?logo=github) ![version](https://img.shields.io/badge/Version-1.0-blue) ![python](https://img.shields.io/badge/python_compatible-yellow?logo=python) ![termux](https://img.shields.io/badge/Android_compatible-green?logo=android)
 ![awesome](https://awesome.re/badge.svg)
 <a href="https://github.com/an-iq-too-high"><picture><source media="(prefers-color-scheme: dark)" srcset="https://www.shieldcn.dev/badge/GitHub-%40an--iq--too--high-181717.svg?logo=github&amp;variant=branded&amp;size=sm&amp;mode=dark"><img alt="GitHub" src="https://www.shieldcn.dev/badge/GitHub-%40an--iq--too--high-181717.svg?logo=github&amp;variant=branded&amp;size=sm&amp;mode=light"></picture></a
-<a
 
 *Note: this can work on termux*
 
