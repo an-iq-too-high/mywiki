@@ -25,14 +25,9 @@ Then say
 cd mywiki
 ```
 
-**BUT DON'T RUN THE .JS YET!!!** 
-You'll then have to say this
-
-***Check releases for code***
-
 Then you run it!
 
-***Also requires to check release***
+***Check releases for execution code***
 
 
 # PACKAGES REQUIRED
