@@ -2,7 +2,7 @@
   <img src="1789577930181.jpg" width="250" alt="MyWiki Logo">
 </p>
 
-![version](https://img.shields.io/badge/version-1.0-blue?logo=1panel) ![python](https://img.shields.io/badge/python-yellow?compatible-logo=python) ![termux](https://img.shields.io/badge/Android_compatible-green?logo=android)
+![version](https://img.shields.io/badge/version-1.0-blue?logo=1panel) ![python](https://img.shields.io/badge/python_compatible-yellow?logo=python) ![termux](https://img.shields.io/badge/Android_compatible-green?logo=android)
 ![linux](https://img.shields.io/badge/linux_compatible-black?logo=linux)
 ![awesome](https://awesome.re/badge.svg)
 ![git](https://img.shields.io/badge/uses-git-red?logo=git)
