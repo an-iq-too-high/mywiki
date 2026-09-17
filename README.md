@@ -1,4 +1,4 @@
-<p align="right">
+<p align="left">
   <img src="1789577930181.jpg" width="200" alt="MyWiki Logo">
 </p>
 
