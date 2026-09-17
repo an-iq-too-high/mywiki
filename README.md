@@ -90,4 +90,10 @@ just me.
 
 # SCREENSHOT
 
+This is V1.0
+
 <img src="https://raw.githubusercontent.com/an-iq-too-high/mywiki/main/Proof.jpg">
+
+And THIS, is V2.0
+
+<img src="https://raw.githubusercontent.com/darkhunter141/mywiki/main/Proof2.jpg">
