@@ -2,11 +2,11 @@
   <img src="1789577930181.jpg" width="250" alt="MyWiki Logo">
 </p>
 
-![version](https://img.shields.io/badge/version-1.0-blue?logo=1panel) ![python](https://img.shields.io/badge/python_compatible-yellow?logo=python) ![termux](https://img.shields.io/badge/Android_compatible-green?logo=android)
-![linux](https://img.shields.io/badge/linux_compatible-black?logo=linux)
+![version](https://img.shields.io/badge/Version-1.0-blue?logo=1panel) ![python](https://img.shields.io/badge/Python_compatible-yellow?logo=python) ![termux](https://img.shields.io/badge/Android_compatible-green?logo=android)
+![linux](https://img.shields.io/badge/Linux_compatible-black?logo=linux)
 ![awesome](https://awesome.re/badge.svg)
-![git](https://img.shields.io/badge/uses-git-red?logo=git)
-![terminal](https://img.shields.io/badge/only_works_on->terminals-black?logo=gnometerminal)
+![git](https://img.shields.io/badge/Uses-Git-red?logo=git)
+![terminal](https://img.shields.io/badge/Only_Works_On->terminals-black?logo=gnometerminal)
 <a href="https://github.com/an-iq-too-high"><picture><source media="(prefers-color-scheme: dark)" srcset="https://www.shieldcn.dev/badge/GitHub-%40an--iq--too--high-181717.svg?logo=github&amp;variant=branded&amp;size=sm&amp;mode=dark"><img alt="GitHub" src="https://www.shieldcn.dev/badge/GitHub-%40an--iq--too--high-181717.svg?logo=github&amp;variant=branded&amp;size=sm&amp;mode=light"></picture>
 
 *Note: this can work on termux*
