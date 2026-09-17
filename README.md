@@ -2,7 +2,7 @@
   <img src="1789577930181.jpg" width="250" alt="MyWiki Logo">
 </p>
 
-![test](https://img.shields.io/badge/github-mywiki-red?logo=github)
+![mywiki](https://img.shields.io/badge/github-mywiki-red?logo=github) ![version](https://img.shields.io/badge/Version-1.0?-dark_red)
 
 
 *Note: this can work on termux*
