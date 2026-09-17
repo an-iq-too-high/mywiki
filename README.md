@@ -9,8 +9,6 @@
   <img src="https://dependents.info/an-iq-too-high/mywiki/image" />
 </a>
 
-Made with [dependents.info](https://dependents.info).
-
 
 *Note: this can work on termux*
 
