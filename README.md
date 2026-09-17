@@ -110,4 +110,4 @@ just me.
 
 # SCREENSHOT
 
-<img src="https://raw.githubusercontent.com/an-iq-too-high/mywiki/main/Screenshot_20260917-090741.jpg">
+<img src="https://raw.githubusercontent.com/an-iq-too-high/mywiki/main/Proof.jpg">
