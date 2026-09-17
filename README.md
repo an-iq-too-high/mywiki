@@ -4,6 +4,7 @@
 
 ![mywiki](https://img.shields.io/badge/github-black?logo=github) ![version](https://img.shields.io/badge/Version-1.0-blue) ![python](https://img.shields.io/badge/python_compatible-yellow?logo=python) ![termux](https://img.shields.io/badge/Android_compatible-green?logo=android)
 ![awesome](https://awesome.re/badge.svg)
+![Countdown](https://awesometime.vercel.app/api?type=countdown&date=2026-9-25&label=next-update)
 
 
 *Note: this can work on termux*
