@@ -7,6 +7,7 @@
 
 
 
+
 *Note: this can work on termux*
 
 # HOW TO RUN
