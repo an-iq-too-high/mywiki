@@ -1,0 +1,35 @@
+name: Update Auto Version
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  update-version:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Calculate Version
+        run: |
+          COMMITS=$(git rev-list --count HEAD)
+          VERSION=$(awk "BEGIN {print 1.00 + ($COMMITS * 0.01)}")
+          VERSION=$(printf "%.2f" $VERSION)
+          echo "NEW_VERSION=$VERSION" >> $GITHUB_ENV
+
+      - name: Create Version Badge JSON
+        run: |
+          echo '{"schemaVersion": 1, "label": "version", "message": "${{ env.NEW_VERSION }}", "color": "blue"}' > version.json
+
+      - name: Commit and Push changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add version.json
+          git commit -m "chore: update version to ${{ env.NEW_VERSION }} [skip ci]" || exit 0
+          git push
+          
