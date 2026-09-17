@@ -3,6 +3,8 @@
 </p>
 
 ![mywiki](https://img.shields.io/badge/github-black?logo=github) ![version](https://img.shields.io/badge/Version-1.0-blue) ![python](https://img.shields.io/badge/python_compatible-yellow?logo=python) ![termux](https://img.shields.io/badge/Android_compatible-green?logo=android)
+<img src="https://shields.io" alt="Version">
+
 
 
 *Note: this can work on termux*
