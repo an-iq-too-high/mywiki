@@ -2,7 +2,7 @@
   <img src="1789577930181.jpg" width="250" alt="MyWiki Logo">
 </p>
 
-https://img.shields.io/badge/github-repo-blue?logo=github
+https://img.shields.io/badge/github-mywiki-red?logo=github
 
 *Note: this can work on termux*
 
