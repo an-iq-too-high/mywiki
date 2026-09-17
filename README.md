@@ -2,7 +2,7 @@
   <img src="1789577930181.jpg" width="250" alt="MyWiki Logo">
 </p>
 
-![mywiki](https://img.shields.io/badge/on-red?-github-black?logo=github) ![version](https://img.shields.io/badge/Version-1.0-blue) ![python](https://img.shields.io/badge/python-compatible-yellow?logo=python) ![termux](https://img.shields.io/badge/Android-compatible-green?logo=android)
+![mywiki](https://img.shields.io/badge/github-black?logo=github) ![version](https://img.shields.io/badge/Version-1.0-blue) ![python](https://img.shields.io/badge/python-compatible-yellow?logo=python) ![termux](https://img.shields.io/badge/Android-compatible-green?logo=android)
 
 
 *Note: this can work on termux*
