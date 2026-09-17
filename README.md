@@ -32,9 +32,9 @@ You'll then have to say this
 
 Then you run it!
 
-```
-python wiki.py
-```
+***Also requires to check version***
+
+
 # PACKAGES REQUIRED
 
 git
