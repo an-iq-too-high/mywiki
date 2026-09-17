@@ -96,3 +96,7 @@ After you install the repository, you can delete files other than wiki.js! wiki.
 # CREDITS
 
 just me.
+
+# SCREENSHOT
+
+<img src="https://raw.githubusercontent.com/an-iq-too-high/mywiki/main/Screenshot_20260917-090741.jpg">
