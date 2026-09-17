@@ -75,8 +75,9 @@ cd mywiki
 ```
 Then this:
 
-***Depends on release***
-And that's it
+***Also check releases for execution code***
+
+And that's it!
 
 # NOTES
 
