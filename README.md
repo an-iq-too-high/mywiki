@@ -6,7 +6,7 @@
 ![linux](https://img.shields.io/badge/Linux_compatible-black?logo=linux)
 ![awesome](https://awesome.re/badge.svg)
 ![git](https://img.shields.io/badge/Uses-Git-red?logo=git)
-![terminal](https://img.shields.io/badge/Only_Works_On- ~ >terminals__-black?logo=gnometerminal)
+![terminal](https://img.shields.io/badge/Only_Works_On-~ >terminals__-black?logo=gnometerminal)
 ![discord](https://img.shields.io/badge/discord-@howdointhatbro-blue?logo=discord)
 <a href="https://github.com/an-iq-too-high"><picture><source media="(prefers-color-scheme: dark)" srcset="https://www.shieldcn.dev/badge/GitHub-%40an--iq--too--high-181717.svg?logo=github&amp;variant=branded&amp;size=sm&amp;mode=dark"><img alt="GitHub" src="https://www.shieldcn.dev/badge/GitHub-%40an--iq--too--high-181717.svg?logo=github&amp;variant=branded&amp;size=sm&amp;mode=light"></picture>
 
