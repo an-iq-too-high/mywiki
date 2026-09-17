@@ -1,5 +1,5 @@
 <p align="left">
-  <img src="1789577930181.jpg" width="200" alt="MyWiki Logo">
+  <img src="1789577930181.jpg" width="250" alt="MyWiki Logo">
 </p>
 
 *Note: this can work on termux*
