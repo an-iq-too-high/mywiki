@@ -1,5 +1,5 @@
 <p align="left">
-  <img src="1789577930181.jpg" width="250" alt="MyWiki Logo">
+  <img src="Logo.jpg" width="250" alt="MyWiki Logo">
 </p>
 
 ![version](https://img.shields.io/badge/Version-1.0-blue?logo=1panel) ![python](https://img.shields.io/badge/Python_compatible-yellow?logo=python) ![termux](https://img.shields.io/badge/Android_compatible-green?logo=android)
