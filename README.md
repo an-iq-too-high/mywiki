@@ -32,7 +32,7 @@ You'll then have to say this
 
 Then you run it!
 
-***Also requires to check version***
+***Also requires to check release***
 
 
 # PACKAGES REQUIRED
@@ -80,9 +80,7 @@ cd mywiki
 ```
 Then this:
 
-```
-python wiki.py
-```
+***Depends on release***
 And that's it
 
 # NOTES
