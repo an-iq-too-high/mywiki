@@ -39,6 +39,8 @@ python
 
 wikipedia-api
 
+OLLAMA (for 3.0)
+
 # HOW TO INSTALL PACKAGES
 
 *P.S: this can work on termux*
@@ -57,12 +59,21 @@ And THEN
 ```
 pip install wikipedia-api
 ```
+And for OLLAMA
 
+```
+pkg install ollama
+```
+For to run the background service!
+
+```
+ollama serve &
+```
 
 If it tells you something like
 
 ```
-Continue with installation? [y/n]
+Continue? [y/n]
 ```
 Then type "y"
 
