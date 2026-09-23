@@ -94,7 +94,7 @@ And that's it!
 # NOTES
 
 If you ask the thing about anything, it will install a .txt file inside the folder for offline reading!
-After you install the repository, you can delete files other than wiki.py! wiki.py will look empty but it kinda keeps the entire thing working, if you encounter any issues, please do say in the "issues" place! this code can work on python if you send the file AFTER doing the process!
+After you install the repository, you can delete files other than the .py files! If you encounter any issues, please do say in the "issues" place! this code can work on python if you send the file AFTER doing the process!
 
 # CREDITS
 
