@@ -113,3 +113,7 @@ And THIS, is V2.0
 AND THIS IS 3.0!!!!!
 
 <img src="https://raw.githubusercontent.com/an-iq-too-high/mywiki/main/Proof3.jpg">
+
+# DEVELOPER NOTES (after 3.5)
+3.5: ts took too long
+
