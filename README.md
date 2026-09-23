@@ -78,6 +78,12 @@ Then after you install it and do what it says, say this!
 ```
 pkg install termux-api
 ```
+For 4.444, you'll need storage perms
+(no need for computers, but for termux use this)
+
+```
+termux-setup-storage
+```
 
 If it tells you something like
 
