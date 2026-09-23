@@ -131,4 +131,7 @@ AND THIS IS 3.0!!!!!
 
 # DEVELOPER NOTES (after 3.5)
 3.5: ts took too long
+3.75: bibbity bopitty ur device information is now me property
+4.0: y'all need to see how peak this is
+4.444: ![hac](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5I1Hhg0xavh2kKzcZIsaVFzp0LME3uj2xdZRb5xjIwg&s=10)
 
