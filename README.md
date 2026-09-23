@@ -41,6 +41,8 @@ wikipedia-api
 
 OLLAMA (for 3.0)
 
+termux-api (for 3.75)
+
 # HOW TO INSTALL PACKAGES
 
 *P.S: this can work on termux*
@@ -68,6 +70,13 @@ For to run the background service!
 
 ```
 ollama serve &
+```
+For termux-api, you'll first need to download it [here](https://github.com/termux/termux-api)!
+
+Then after you install it and do what it says, say this!
+
+```
+pkg install termux-api
 ```
 
 If it tells you something like
