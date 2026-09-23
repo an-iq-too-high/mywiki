@@ -71,7 +71,7 @@ For to run the background service!
 ```
 ollama serve &
 ```
-For termux-api, you'll first need to download it [here](https://github.com/termux/termux-api)!
+For termux-api, you'll first need to download it [here](https://release-assets.githubusercontent.com/github-production-release-asset/38464245/ed08fcb4-45d1-4c75-9042-11147059b86b?sp=r&sv=2018-11-09&sr=b&spr=https&se=2026-09-23T14%3A37%3A55Z&rscd=attachment%3B+filename%3Dtermux-api-app_v0.53.0%2Bgithub.debug.apk&rsct=application%2Fvnd.android.package-archive&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2026-09-23T13%3A37%3A06Z&ske=2026-09-23T14%3A37%3A55Z&sks=b&skv=2018-11-09&sig=LEuudbVjnHgysuZgBmH8fZ7FVKVSl6sNR6SjSj1fW%2BU%3D&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc5MDE3MDkyNiwibmJmIjoxNzkwMTcwNjI2LCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.Kqsp-6pAmRgx-7RFy62sv5cMf4NkllDMDnvHGRrofpA&response-content-disposition=attachment%3B%20filename%3Dtermux-api-app_v0.53.0%2Bgithub.debug.apk&response-content-type=application%2Fvnd.android.package-archive)!
 
 Then after you install it and do what it says, say this!
 
