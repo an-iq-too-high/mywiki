@@ -109,3 +109,7 @@ This is V1.0
 And THIS, is V2.0
 
 <img src="https://raw.githubusercontent.com/an-iq-too-high/mywiki/main/Proof2.jpg">
+
+AND THIS IS 3.0!!!!!
+
+<img src="https://raw.githubusercontent.com/an-iq-too-high/mywiki/main/Proof3.jpg">
