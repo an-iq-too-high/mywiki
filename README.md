@@ -100,7 +100,7 @@ After you install the repository, you can delete files other than wiki.py! wiki.
 
 just me.
 
-# SCREENSHOT
+# SCREENSHOTS
 
 This is V1.0
 
