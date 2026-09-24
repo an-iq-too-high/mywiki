@@ -10,7 +10,7 @@
 ![discord](https://img.shields.io/badge/discord-@howdointhatbro-blue?logo=discord)
 [![stars](https://custom-icon-badges.demolab.com/github/stars/an-iq-too-high/mywiki?logo=star&style=flat)](https://github.com/an-iq-too-high/mywiki/stargazers "stars")
 [![issues](https://custom-icon-badges.demolab.com/github/issues-raw/an-iq-too-high/mywiki?logo=issue)](https://github.com/an-iq-too-high/mywiki/issues "issues")
-[![test](https://img.shields.io/badge/Latest_release-4.444-black?logo=tag)](https://github.com/an-iq-too-high/mywiki/releases/tag/hax "release")
+[![test](https://img.shields.io/badge/Latest_release-4.444-black?logo=release)](https://github.com/an-iq-too-high/mywiki/releases/tag/hax "release")
 <a href="https://github.com/an-iq-too-high"><picture><source media="(prefers-color-scheme: dark)" srcset="https://www.shieldcn.dev/badge/GitHub-%40an--iq--too--high-181717.svg?logo=github&amp;variant=branded&amp;size=sm&amp;mode=dark"><img alt="GitHub" src="https://www.shieldcn.dev/badge/GitHub-%40an--iq--too--high-181717.svg?logo=github&amp;variant=branded&amp;size=sm&amp;mode=light"></picture>
 
 *Note: this can work on termux*
