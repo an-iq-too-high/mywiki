@@ -1,3 +1,6 @@
+*Note: this can work on termux*
+
+
 <p align="left">
   <img src="Logo.jpg" width="250" alt="MyWiki Logo">
 </p>
@@ -13,8 +16,6 @@
 [![test](https://img.shields.io/badge/Latest_release-4.444-black?logo=release)](https://github.com/an-iq-too-high/mywiki/releases/tag/hax "release")
 ![download](https://img.shields.io/github/downloads/an-iq-too-high/mywiki/total?label=Downloads)
 <a href="https://github.com/an-iq-too-high"><picture><source media="(prefers-color-scheme: dark)" srcset="https://www.shieldcn.dev/badge/GitHub-%40an--iq--too--high-181717.svg?logo=github&amp;variant=branded&amp;size=sm&amp;mode=dark"><img alt="GitHub" src="https://www.shieldcn.dev/badge/GitHub-%40an--iq--too--high-181717.svg?logo=github&amp;variant=branded&amp;size=sm&amp;mode=light"></picture>
-
-*Note: this can work on termux*
 
 # HOW TO RUN
 
