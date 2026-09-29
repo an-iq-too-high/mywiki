@@ -11,7 +11,7 @@
 ![git](https://img.shields.io/badge/Uses-Git-red?logo=git)
 ![terminal](https://img.shields.io/badge/Only_Works_On->terminals__-black?logo=gnometerminal)
 ![discord](https://img.shields.io/badge/discord-@howdointhatbro-blue?logo=discord)
-[![stars](https://img.shields.io/github/stars/an-iq-too-high/mywiki/total?label=Stars)
+[![stars](https://img.shields.io/github/downloads/an-iq-too-high/mywiki/total?label=Downloads)
 [![issues](https://custom-icon-badges.demolab.com/github/issues-raw/an-iq-too-high/mywiki?logo=issue)](https://github.com/an-iq-too-high/mywiki/issues "issues")
 [![test](https://img.shields.io/badge/Latest_release-4.444-black?logo=release)](https://github.com/an-iq-too-high/mywiki/releases/tag/hax "release")
 ![download](https://img.shields.io/github/downloads/an-iq-too-high/mywiki/total?label=Downloads)
