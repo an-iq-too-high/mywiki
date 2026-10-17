@@ -13,7 +13,7 @@
 ![discord](https://img.shields.io/badge/discord-@howdointhatbro-blue?logo=discord)
 ![stars](https://img.shields.io/github/downloads/an-iq-too-high/mywiki/total?label=Downloads)
 [![issues](https://custom-icon-badges.demolab.com/github/issues-raw/an-iq-too-high/mywiki?logo=issue)](https://github.com/an-iq-too-high/mywiki/issues "issues")
-[![release](https://img.shields.io/github/v/release/an-iq-too-high/mywiki)
+![release](https://img.shields.io/github/v/release/an-iq-too-high/mywiki)
 ![download](https://img.shields.io/github/downloads/an-iq-too-high/mywiki/total?label=Downloads)
 <a href="https://github.com/an-iq-too-high"><picture><source media="(prefers-color-scheme: dark)" srcset="https://www.shieldcn.dev/badge/GitHub-%40an--iq--too--high-181717.svg?logo=github&amp;variant=branded&amp;size=sm&amp;mode=dark"><img alt="GitHub" src="https://www.shieldcn.dev/badge/GitHub-%40an--iq--too--high-181717.svg?logo=github&amp;variant=branded&amp;size=sm&amp;mode=light"></picture>
 
